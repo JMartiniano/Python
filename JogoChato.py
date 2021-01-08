@@ -1,7 +1,7 @@
 import random
 
-print ("DESARME A BOMBA!\nA cada rodada será mostrado na tela 3 números (0 - 9) aleatórios, tente digita-los na ordem "
-       "correta antes da bomba explodir")
+print ("DESARME A BOMBA!\nSerá mostrado na tela 4 números aleatórios de 0 - 9, tente digita-los na ordem "
+       "correta para achar a senha antes da bomba explodir")
 
 num = (random.sample(range(0,9), 4))
 print(f"Os números são : {num}\nCOMEÇOU, DESARME A BOMBA!")
