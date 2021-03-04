@@ -1,0 +1,6 @@
+enter = input("Input: ")
+enter = enter.replace(",",".")
+enter = enter.split()
+enter.sort()
+b = str(enter.sort())
+print(f"\n{enter}\nROL: {b}")
