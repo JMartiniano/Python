@@ -2,7 +2,7 @@
 from random import randint
 
 # Abrindo o arquivo onde serão gravadas as senhas geradas
-arqsenhas = open('/home/martiniano/Documentos/CadastroEscolas/senhas.txt', 'a')
+arqsenhas = open('./senhas.txt', 'a')
 
 # Definindo a quantidade de dígitos por senha
 tam = 8

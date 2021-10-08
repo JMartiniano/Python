@@ -1,5 +1,5 @@
-arqids = open('/home/martiniano/Documentos/CadastroEscolas/soIds.txt')
-arqScriptFinal = open('/home/martiniano/Documentos/CadastroEscolas/scriptFinalPerfis.txt', 'a')
+arqids = open('./soIds.txt')
+arqScriptFinal = open('./scriptFinalPerfis.txt', 'a')
 
 ids = arqids.readlines()
 

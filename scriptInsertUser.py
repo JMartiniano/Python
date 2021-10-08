@@ -2,8 +2,8 @@
 import os
 
 # Abrindo/criando arquivos necessários
-arqids = open('/home/martiniano/Documentos/CadastroEscolas/soIds.txt')
-arqScriptPronto = open('/home/martiniano/Documentos/CadastroEscolas/scriptPronto.txt', 'a')
+arqids = open('./soIds.txt')
+arqScriptPronto = open('./scriptPronto.txt', 'a')
 
 # Lendo linha por linha do arquivo de IDs
 ids = arqids.readlines()
@@ -14,9 +14,9 @@ for id in ids:
     arqScriptPronto.write(f"insert into glpi_users (name, password, authtype) values ('{id}'\n") # Escrevendo formatação nova no arquivo novo
 
 # Abrindo/criando arquivos necessários
-arqScriptPronto = open('/home/martiniano/Documentos/CadastroEscolas/scriptPronto.txt')
-arqsenhas = open('/home/martiniano/Documentos/CadastroEscolas/senhasCriptografadas.txt')
-arqScriptFinal = open('/home/martiniano/Documentos/CadastroEscolas/scriptFinalUsers2.txt', 'a')
+arqScriptPronto = open('./scriptPronto.txt')
+arqsenhas = open('./senhasCriptografadas.txt')
+arqScriptFinal = open('./scriptFinalUsers2.txt', 'a')
 
 # Lendo linha por linha do arquivo de senhas e o arquivo parcial
 senhas = arqsenhas.readlines()
@@ -45,4 +45,4 @@ for linha in linhas:
         cont+=1 # Acrescenta um ao contador para pular para a próxima linha e senha
         arqScriptFinal.write(f"{a}, '{b}', 1);\n") # Junta a linha parcial com o complemento já gravando no arquivo novo
 
-os.remove('/home/martiniano/Documentos/CadastroEscolas/scriptPronto.txt') # Remove o arquivo parcial
+os.remove('./scriptPronto.txt') # Remove o arquivo parcial
