@@ -1,0 +1,4 @@
+Jose,Masculino,18
+Vanda,Feminino,44
+Vanessa ,Feminino,38
+Rebeka,Feminino,18
