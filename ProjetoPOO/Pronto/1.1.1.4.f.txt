@@ -1,0 +1,5 @@
+4.A rede interna de um prédio possui uma topologia em estrela composta por cinco switches com suporte a VLANs, um roteador e um ponto de acesso sem fio. Neles, o administrador configurou cinco VLANs além da VLAN default e conectou corretamente a interface do uplink da rede com o provedor de Internet. Todas as máquinas do prédio foram subdivididas entre as cinco VLANs, estão com seus parâmetros de acesso corretamente configurados e em perfeito funcionamento. Por fim, a rede wireless foi configurada na VLAN default. Ciente de que a utilização de VLANs isola o tráfego entre as sub-redes, os datagramas IP enviados a partir de uma máquina conseguem ser encaminhados para outra em VLAN distinta, pois 
+( )A - os switches são capazes de encaminhar o tráfego com base no identificador da VLAN.
+( )B - o roteador realiza o processo de roteamento entre redes distintas. 
+( )C - as portas dos switches são configuradas como trunk e reconhecem o gateway padrã
+( )D - A VLAN default está presente em todos os dispositivos, englobando as demais VLANs. 

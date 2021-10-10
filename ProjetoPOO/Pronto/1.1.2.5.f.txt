@@ -1,0 +1,6 @@
+5.Dada a máscara de um endereço IPv4 de rede classe B 255.255.248.0 (/21), seria possível criar até 32 sub-redes com o número máximo de endereços de host úteis, qual seja:
+A 1024.
+B 2046.
+C 4096.
+D 512.
+E 1022

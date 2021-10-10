@@ -1,0 +1,6 @@
+8.Em um escritório instalado com um único switch existe a necessidade de dividir essa rede local (física) em mais de uma rede virtual ou lógica criando domínios de broadcast separados. Para atender essa necessidade deve-se utilizar de
+( )A - VPN
+( )B - VLAN
+( )C - ARP
+( )D - NAT
+( )E - WLAN

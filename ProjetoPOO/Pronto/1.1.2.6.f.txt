@@ -1,0 +1,6 @@
+6.A máscara de rede 255.255.128.0 pode ser representada pelo seguinte prefixo:
+A /10
+B /15
+C /13 
+D /17
+E /20

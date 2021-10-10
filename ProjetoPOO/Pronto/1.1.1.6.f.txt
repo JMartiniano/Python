@@ -1,0 +1,6 @@
+6.Considere uma instalação de uma rede local de computadores que inclui três VLANs (VLAN1, VLAN2 e VLAN3) em sua topologia. As VLANs foram segmentadas utilizando uma Switch L2. Considere, ainda, um pacote gerado por um computador pertencente à VLAN1 que deve ser encaminhado para um computador pertencente à VLAN3. Nessa situação, o encaminhamento do pacote na VLAN1 será realizado por meio
+( )A - da Porta de expansão da Switch L2
+( )B - do Default Gateway
+( )C - da Bridge instalada na Switch L2. 
+( )D - da Porta de Broadcast. 
+( )E - do roteador embutido na Switch L2.

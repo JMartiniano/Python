@@ -1,0 +1,5 @@
+7.Em uma rede local, utiliza-se a alocação dinâmica de endereços IP através de um servidor DHCP. O técnico em tecnologia da informação deseja configurar sub -redes que possuam exatamente 62 IPs utilizáveis em cada uma. Para essa configuração, a máscara de sub-rede deverá ser
+A 255.255.255.0
+B 255.255.255.128
+C 255.255.255.240
+D 255.255.255.192

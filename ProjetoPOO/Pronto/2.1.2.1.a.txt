@@ -1,0 +1,1 @@
+1.Crie uma pilha com os seguintes valores: Amarelo, Vermelho, Verde e Azul. O valor Amarelo deve estar na base da pilha e Azul no topo.

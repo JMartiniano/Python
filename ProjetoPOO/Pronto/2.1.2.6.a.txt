@@ -1,0 +1,7 @@
+6.Esvazie a seguinte pilha: 
+ uepb 
+ ufpb 
+ ufcg  
+ ifpb 
+ mit
+ harvard

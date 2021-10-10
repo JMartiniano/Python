@@ -1,0 +1,1 @@
+1- Crie uma classe Aluno com nome, matricula, endereço e cpf. Teste e exiba a informação dos alunos por meio do método: def __str__(self). 

@@ -1,0 +1,4 @@
+2.Acerca de IP e TCP, julgue o item que se segue.
+Em IPv4, uma rede com endereçamento 192.168.30.0/30 tem capacidade de endereçar quatro equipamentos.
+C Certo
+E Errado

@@ -1,0 +1,1 @@
+7. Escreva um programa que leia o peso e a altura de uma pessoa, determine e mostre o seu grau de obesidade, de acordo com a tabela seguinte. O grau de obesidade é determinado pelo índice de massa corpórea, cujo cálculo é realizado dividindo-se o peso da pessoa pelo quadrado da sua altura. 

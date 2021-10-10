@@ -1,0 +1,1 @@
+6. Ponha os elementos da pilha S na ordem ascendente usando uma pilha adicional e algumas variáveis adicionais. 

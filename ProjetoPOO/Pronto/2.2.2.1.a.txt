@@ -1,0 +1,6 @@
+1. Analise o panorama a seguir, desenhe o diagrama de classes e a implemente. No presente projeto, identificou-se a classe Funcionario e a classe Gerente. Funcionario tem nome, id e salário como características. Além disso, Gerente tem nome, id, salário, gratificação e agência que administra como características. 
+● crie as classes acima e implemente seus construtores, get, sets e str. 
+● implemente um método chamado exibeResponsabilidades() que retorna uma lista de responsabilidades em cada uma das classes. 
+● crie a classe Assistente, que também é um funcionário, e possui uma vigência do contrato (período de contrato funcionário, dado que Assistente é uma modalidade temporária) como característica extra. Sobrescreva o método exibeResponsabilidades(). 
+● sabendo que os Assistentes Técnicos possuem um bônus salarial e que os Assistentes Administrativos possuem um turno (dia ou noite) e um adicional noturno, crie as classes Tecnico e Administrativo. 
+● Implemente o arquivo teste e teste as estruturas (Por exemplo, crie um assistente administrativo e um técnico. Imprima o período do contrato e o nome de cada um deles).

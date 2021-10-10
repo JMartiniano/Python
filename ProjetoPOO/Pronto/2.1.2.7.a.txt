@@ -1,0 +1,1 @@
+7.Desenvolva um algoritmo que informe o tamanho de uma pilha de tamanho dinâmico (o usuário irá informar os valores da pilha)

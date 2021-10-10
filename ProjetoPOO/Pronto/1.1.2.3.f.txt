@@ -1,0 +1,5 @@
+3.Em uma rede TCP/IP, o computador é identificado por um número chamado endereço IP. Esse endereço IP consiste em um conjunto de 8 bits, chamado de octeto. O padrão de endereçamento IPv4 utiliza 4 conjuntos de 8 bits (4 octetos) para expressar cada endereço IP. Quantos conjuntos são necessários para formar um endereço IPv6, sabendo-se que cada conjunto é formado por dois octetos?
+A 2 conjuntos.
+B 4 conjuntos.
+C 6 conjuntos.
+D 8 conjuntos.

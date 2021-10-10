@@ -1,0 +1,12 @@
+3.Marque a alternativa correta
+I – O conceito de VLAN pode ser definido como uma LAN configurada logicamente via software, não através de fios. 
+II – O formato de um quadro 802.1Q, basicamente, acrescentou um par de campos de 2 bytes. No segundo campo, o principal subcampo é o identificador de VLAN, que ocupa 12 bits, suportando assim até 4.096 diferentes VLANs. 
+III – Umas das principais vantagens das VLANs está na redução do domínio de broadcast.
+É CORRETO o que se afirma em:
+Considere as afirmativas abaixo, relativas à Rede Local Virtual (VLAN):
+( )A - I, II e III
+( )B - I e II, apenas.
+( )C - I e III, apenas.
+( )D - II e III, apenas.
+( )E - Nenhuma das afirmativas está correta.
+ 

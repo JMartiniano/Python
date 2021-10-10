@@ -1,0 +1,13 @@
+8.TCP/IP é um conjunto de protocolos usados em redes de computadores. TCP e IP são dois protocolos dessa família e por serem os mais conhecidos, tornou-se comum usar o termo TCP/IP para se referir à família inteira. Sobre TCP/IP, analise as assertivas e assinale a alternativa correta:
+I. O TCP é um protocolo orientado à conexão, que exige que as duas extremidades concordem em participar
+ 
+II. Entende-se por datagrama IP a unidade de transferência básica da Internet em uma rede física, um frame que contém um cabeçalho e dados, e esse cabeçalho fornece informações, tais como a origem (física) e endereços de destino.
+ 
+III. O protocolo IPv4 trabalha com o tamanho de endereços de 32bits, enquanto que o IPv6 trabalha com endereços de 128 bits
+ 
+IV. O Address Resolution Protocol (ARP) é utilizado pelo IPv4 para procurar um endereço físico, como MAC por exemplo, associado a um endereço de IPv4, enquanto que O IPv6 incorpora estas funções no próprio IP como parte dos algoritmos para autoconfiguração sem registro.
+A F - V - V - F
+B F - F - F -F.
+C F - V - F - V
+D V - V - V -V.
+E V - V - V - F

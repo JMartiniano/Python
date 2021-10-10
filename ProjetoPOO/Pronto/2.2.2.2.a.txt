@@ -1,0 +1,3 @@
+2. Planeje, implemente e teste o projeto a seguir de acordo com os diagramas de classe abaixo: 
+● crie um animal do tipo cachorro e faça-o latir. Crie um gato e faça-o miar. Faça os dois animais caminharem. 
+● teste (como quiser) as classes Rica, Pobre e Miseravel. 

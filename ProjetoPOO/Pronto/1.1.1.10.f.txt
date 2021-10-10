@@ -1,0 +1,6 @@
+10.Com relação à infraestrutura de TI, julgue os próximos itens.
+As redes virtuais ou VLANs são logicamente independentes, podendo coexistir, em um mesmo switch, diversas VLANs nas portas do switch configuradas como untagged.
+ 
+( )Certo
+ 
+( )Errado

@@ -1,0 +1,1 @@
+5.Imprima na tela o topo da pilha que contém os seguintes valores: paraíba pernambuco ceará piauí maranhão rio grande do norte

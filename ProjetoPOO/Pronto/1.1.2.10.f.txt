@@ -1,0 +1,4 @@
+10.No que se refere a redes de computadores e à segurança da informação, julgue os itens subsequentes.
+A Rota Default é um endereço de rede para onde os pacotes destinados a redes desconhecidas devem ser encaminhados.
+C Certo
+E Errado

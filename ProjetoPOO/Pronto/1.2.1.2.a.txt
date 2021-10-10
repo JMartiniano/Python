@@ -1,0 +1,1 @@
+2. Escreva um programa que gere e mostre a sequência 100, 90, 80, 70, ..., 0. 

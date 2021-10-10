@@ -1,0 +1,9 @@
+9. Em uma pesquisa foram coletados os seguintes dados de um conjunto de 100 pessoas: nome, idade, sexo, estado civil e salário. Neste contexto, escreva um programa que leia os dados coletados durante a pesquisa, determine e mostre: 
+a) A quantidade de mulheres entrevistadas 
+b) A quantidade de homens entrevistados 
+c) A quantidade de pessoas solteiras 
+d) A quantidade de pessoas casadas 
+e) O salário médio das mulheres entrevistadas 
+f) A idade média dos homens entrevistados 
+g) A quantidade de mulheres solteiras que ganham acima de R$ 2.000,00 
+h) A quantidade de homens com mais de 35 anos que ganham acima de R$ 2.000,00 

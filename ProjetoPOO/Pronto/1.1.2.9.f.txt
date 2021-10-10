@@ -1,0 +1,4 @@
+9.No que se refere a redes de computadores e à segurança da informação, julgue os itens subsequentes.
+Todos os equipamentos de uma rede local de computadores devem ter suas Rotas Default configuradas para um mesmo endereço.
+C Certo
+E Errado

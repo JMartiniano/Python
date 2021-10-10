@@ -1,0 +1,2 @@
+4.Crie uma pilha com seu nome e seus sobrenomes de tal forma que seu nome fique na base da pilha. Em seguida, remova seu último sobrenome da pilha , que está no topo.
+ 
