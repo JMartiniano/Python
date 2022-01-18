@@ -1,0 +1,2 @@
+5. Escreva um programa que leia um conjunto de 100 números reais, determine e mostre o maior e o 
+menor deles. 

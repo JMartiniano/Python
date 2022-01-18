@@ -1,0 +1,1 @@
+1. Escreva um programa que gere e mostre os números múltiplos de 5 entre 1 e 50. 

@@ -1,0 +1,6 @@
+2.Julgue o próximo item, a respeito de fibra óptica e VLAN.
+Em uma rede local half-duplex que utilize fibra óptica no padrão Gigabit Ethernet, não é possível a ocorrência de colisões, por isso é desnecessário o uso do protocolo CSMA/CD.
+ 
+( )Certo
+ 
+( )Errado

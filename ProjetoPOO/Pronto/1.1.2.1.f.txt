@@ -1,0 +1,6 @@
+1.A respeito de redes de computadores, assinale a alternativa correta.
+A O único motivo da troca do IPv4 para o IPv6 é que IPv6 é muito mais eficiente, sem apresentar nenhum outro tipo de melhoria.
+B O modelo original do TCP/IP prevê três camadas: Enlace, Internet e Transporte.
+C HSRP e VRRP são ambos protocolos de redundância que reduzem o risco de falha nas redes.
+D A Quality of Service (QoS) oferece serviços de rede inteligente, que, quando corretamente aplicados, fornecem desempenho consistente, embora raramente previsível.
+E UDP é um protocolo de comunicação que tem base no envio de pacotes de informação fazendo extensa verificação de erro. Tem como objetivo a integridade do pacote acima da velocidade de envio.

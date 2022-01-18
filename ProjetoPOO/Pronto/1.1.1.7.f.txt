@@ -1,0 +1,12 @@
+7.Analise as afirmativas abaixo com relação a uma rede que apresenta somente equipamentos de camada 2, switches.
+1. A utilização de switches em uma rede local não resolve o problema de excesso de colisões.
+2. Para a resolução de problema de excesso de broadcasts se faz necessária a segmentação da rede, através de roteadores ou VLAN’s.
+3. Spanning Tree Protocol (STP) é um protocolo usado como alternativa para impossibilitar que aconteçam loops de Camada de Enlace em redes redundantes de computadores.
+4. O Reliable Spanning Tree Protocol (RSTP) tem como principal finalidade reduzir o tempo de espera da transição da porta bloqueada para a porta ativa.
+ 
+Assinale a alternativa que indica todas as afirmativas corretas.
+( )A - São corretas apenas as afirmativas 1 e 4.
+( )B - São corretas apenas as afirmativas 2 e 3.
+( )C - São corretas apenas as afirmativas 1, 2 e 3.
+( )D - São corretas apenas as afirmativas 1, 2 e 4.
+( )E - São corretas apenas as afirmativas 2, 3 e 4.

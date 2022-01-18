@@ -1,0 +1,7 @@
+4. Escreva um programa que leia a idade de um nadador e classifique-o em uma das seguintes 
+categorias: 
+a) infantil A = 5 a 7 anos 
+b) infantil B = 8 a 10 anos 
+c) juvenil A = 11 a 13 anos 
+d) juvenil B = 14 a 17 anos 
+e) adulto = maiores de 18 anos 

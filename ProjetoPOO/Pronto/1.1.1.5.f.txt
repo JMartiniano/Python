@@ -1,0 +1,7 @@
+5.É uma tecnologia presente em vários dispositivos que permite realizar a separação lógica de uma rede em vários segmentos distintos. Para existir comunicação entre essas redes é necessária a utilização de dispositivos camada três do modelo OSI, podendo ser um roteador ou Switch. Existem dois tipos de _________: estáticas e dinâmicas. Segundo Tabenbaum (2003), existem três topologias de________, as atribuídas por porta, por endereço MAC e por protocolo.
+O texto acima refere-se a:
+( )A - WAN
+( )B - VLAN
+( )C - Ethernet 
+( )D - WLAN
+( )E - VPN

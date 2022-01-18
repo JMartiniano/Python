@@ -1,0 +1,7 @@
+9.Julgue os próximos itens acerca do modo de funcionamento dos protocolos STP (spanning tree) e PVSTP (per-vlan spanning tree).
+ 
+É comum usar VLans em redes Ethernet com múltiplos switches. Portanto, é desejável e possível que existam múltiplas instâncias do PVSTP, de modo que as VLans possam utilizar enlaces diferentes na rede.
+ 
+( )Certo
+ 
+( )Errado

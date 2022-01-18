@@ -1,0 +1,6 @@
+4.Um endereço IP é um identificador único para uma interface de rede de uma máquina. Sobre o endereçamento IP também é correto afirmar:
+A É representado por 2 bytes separados por um ponto, onde cada byte é representado por um número decimal, a fim de tornar a identificação do IP mais simples.
+B Um endereço IP pode ser identificado em uma forma binária, representado por 0 e 1, ou na forma decimal, como por exemplo: 209.265.20.190.
+C O “switch” é o responsável pela interligação das duas redes que envolvem o endereçamento IP, e uma delas é a rede na qual a estação está conectada.
+D Possui uma parte que identifica a rede à qual a interface de rede está conectada e outra parte que identifica a máquina dentro dessa rede.
+E Um endereçamento classe A possui endereços que têm uma porção de identificação de rede de 3bytes e uma de equipamentos de 1byte.

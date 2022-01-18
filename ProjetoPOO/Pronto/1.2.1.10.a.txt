@@ -1,0 +1,10 @@
+10. Jogo do Arrocha! Esse é um jogo que consiste em tentar adivinhar um número (previamente 
+escolhido), que está representado dentro de um intervalo de números inteiros. 
+Inicialmente, o jogador 1 prepara o jogo, definindo um intervalo e escolhendo um número (secreto) que está dentro desse intervalo, esse número escolhido não pode ser os números limites do intervalo. 
+Uma vez preparado o jogo, o jogador 2 tentará adivinhar esse número “chutando” valores até acertar (ganha) ou arrochar o número (perde), ou informar valor inválido (perde). Um número é considerado inválido se estiver fora do intervalo do jogo. 
+Quando o jogador 2 informar um número (chute), poderá acontecer uma das seguintes situações: 
+Situação O que fazer Chute é igual ao número secreto Jogo encerra e o jogador 2 ganhou! Chute está fora do intervalo ou é igual a um dos números do intervalo 
+Jogo encerra e o jogador 1 ganhou! 
+Chute é menor do que o número secreto 
+Jogo continua e o limite inferior do intervalo é o número informado (chute) Chute é maior do que o número secreto 
+Jogo continua e o limite superior do intervalo é o número informado (chute) 

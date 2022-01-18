@@ -1,0 +1,1 @@
+2.Mostre os valores da pilha do exemplo anterior (Amarelo, Vermelho, Verde e Azul).

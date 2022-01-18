@@ -1,0 +1,11 @@
+10. Escreva um programa para calcular a conta final de um hóspede de um hotel, considerando que: 
+a) Serão lidos o nome do hóspede, o tipo do apartamento utilizado (A, B, C ou D), o número de 
+diárias utilizadas pelo hóspede e o valor do consumo interno do hóspede; b) O valor da diária é determinado pela seguinte tabela: 
+	Tipo de Ap         |          Valor da diária
+		A          |           	150
+		B	   |		100
+		C	   |		75
+		D	   |		50
+c) O valor total das diárias é calculado pela multiplicação do número de diárias utilizadas pelo 
+valor da diária; d) O subtotal é calculado pela soma do valor total das diárias e o valor do consumo interno; e) O valor da taxa de serviço equivale a 10% do subtotal; f) O total geral resulta da soma do subtotal com a taxa de serviço. 
+O programa deverá mostrar a conta final do hóspede, contendo: o nome do hóspede, o tipo do apartamento, o número de diárias utilizadas, o valor unitário da diária, o valor total das diárias, o valor do consumo interno, o subtotal, o valor da taxa de serviço e o total geral. 

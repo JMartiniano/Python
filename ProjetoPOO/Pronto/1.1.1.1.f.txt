@@ -1,0 +1,6 @@
+1.Julgue o próximo item, a respeito de fibra óptica e VLAN.
+Se, por uma porta específica de um switch trafegam mais de uma rede, isto é, redes diferentes utilizam a mesma porta do switch, então está em uso o recurso denominado VLAN ou Virtual LAN.
+ 
+( )Certo
+ 
+( )Errado

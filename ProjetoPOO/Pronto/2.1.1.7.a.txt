@@ -1,0 +1,1 @@
+7. Transfira os elementos da pilha S1 para a pilha S2 de modo que os elementos de S2 estejam na mesma ordem que em S1: a. usando uma pilha adicional; b. não usando pilha adicional, mas somente algumas variáveis adicionais. 

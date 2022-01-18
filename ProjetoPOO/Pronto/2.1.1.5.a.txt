@@ -1,0 +1,1 @@
+5. Inverta a ordem dos elementos na pilha S criada pelo usuário: a. usando pilhas adicionais; b. usando uma fila adicional; 

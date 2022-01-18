@@ -1,0 +1,10 @@
+8. Escreva um programa que leia a matrícula de um aluno, suas 3 notas obtidas em provas, a média dos exercícios escolares (ME). O programa deverá calcular a média de aproveitamento (MA), usando a expressão: 
+MA = (Nota1 + Nota2 x 2 + Nota3 x 3 + ME )/7 
+O programa deverá determinar o conceito do aluno na disciplina, de acordo com a tabela seguinte: 
+Média de Aproveitamento 
+Conceito 9,0 A 
+7,5 e < 9,0 B 
+6,0 e < 7,5 C 
+4,0 e < 6,0 D 
+< 4,0 E 
+Ao final, mostrar a matrícula do aluno, a média de aproveitamento, o conceito correspondente e a mensagem APROVADO (se o conceito for A, B ou C) ou REPROVADO (se o conceito for D ou E). 

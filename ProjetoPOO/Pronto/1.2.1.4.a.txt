@@ -1,0 +1,2 @@
+4. Considere a expressão . Escreva um programa que calcule e mostre 
+o valor de H, sabendo que o valor de N é inteiro e deverá ser fornecido pelo usuário. 

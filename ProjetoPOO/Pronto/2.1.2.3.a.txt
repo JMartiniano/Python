@@ -1,0 +1,1 @@
+3.Escreva um programa solicite ao usuário uma sequência de caracteres (você pode definir a quantidade de caracteres). Cada caracter ocupará uma posição da pilha chamada de “letras”.
