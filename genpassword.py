@@ -1,5 +1,7 @@
-# Import library of random
+# Import random library 
 from random import randint
+# Import os library
+import os 
 
 # How many digits password
 tam = int(input('How many digist in the password? '))
@@ -19,18 +21,24 @@ if writeYN == "y" or writeYN == "Y":
     # Opening the file
     arqpasswords = open(path, 'w')
 
-#Asking about fomart
-print (f'\nFormat option A:\n--------------\n[01] - password\n--------------\n[02] - password\n--------------\n')
-print (f'\nFormat option B:\npassword\npassword\n')
-optformat = input('Choice a format option: [A,B]')
+    #Asking about format
+    print (f'\nHow do you want to format the list?\nFormat option A:\n--------------\n[01] - password\n--------------\n[02] - password\n--------------')
+    print (f'\nFormat option B:\npassword\npassword\n')
+    optformat = input('Choice a format option: [A,B]')
 
+os.system('clear')
+
+print(f'\n Você pediu {howmany} senhas e elas são:\n')
 print ('-' * (tam+(len(str(howmany)))+7))
-
 # For that will create howmany random passwords with tam digits each
 for i in range(howmany):
     
     # Generating passwords
     password = int(''.join(str(randint(0,9)) for _ in range(tam)))
+    if len(str(password)) < tam:
+        complement = int(tam - len(str(password)))
+        complete = int(''.join(str(randint(0,9)) for _ in range(complement)))
+        password = str(password)+str(complete)
     
     # Saving passwords in the array
     passwords.append(password)
