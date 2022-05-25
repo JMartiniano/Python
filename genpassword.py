@@ -28,7 +28,7 @@ if writeYN == "y" or writeYN == "Y":
 
 os.system('clear')
 
-print(f'\n Você pediu {howmany} senhas e elas são:\n')
+print(f'\n Você pediu {howmany} senhas de {tam} dígitos cada:\n')
 print ('-' * (tam+(len(str(howmany)))+7))
 # For that will create howmany random passwords with tam digits each
 for i in range(howmany):
