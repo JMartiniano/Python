@@ -40,5 +40,5 @@ for arquivo in lista_arq: # Pega um arquivo da lista de arquivos
                 if arquivo == teste: # Se o nome do backup atual realmente for igual ao teste, então temos uma segunda confirmação que o bakcup pertence à empresa
                     print(f"--> {empresa} copiada com sucesso!") # Essa linha não precisa
                     #print (f"FINALLLL\nArquivo: {arquivo}\nEmpresa: {empresa}\nTeste: {teste}")
-                    #os.rename(f"./{arquivo}", f"{lista_empresas}/fev/{arquivo}")
+                    #os.rename(f"./{arquivo}", f"{empresa}/{arquivo}")
         cont += 1
