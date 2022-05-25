@@ -1,7 +1,7 @@
 '''
 README
 
-Este escript foi feito para corrigir um problema específico:
+Este script foi feito para corrigir um problema específico:
 
 - Cenário:
 
