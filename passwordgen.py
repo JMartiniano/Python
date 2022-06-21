@@ -28,7 +28,7 @@ if writeYN == "y" or writeYN == "Y":
 
 os.system('clear')
 
-print(f'\n You order {howmany} passwords with {tam} digits each:\n')
+print(f'\n You requested {howmany} passwords with {tam} digits each:\n')
 print ('-' * (tam+(len(str(howmany)))+7))
 
 # For that will create howmany random passwords with tam digits each
