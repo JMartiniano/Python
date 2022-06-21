@@ -4,7 +4,7 @@ from random import randint
 import os 
 
 # How many digits password
-tam = int(input('How many digist in the password? '))
+tam = int(input('How many digits in the password? '))
 
 # Array to save the passwords 
 passwords = []
@@ -24,12 +24,13 @@ if writeYN == "y" or writeYN == "Y":
     #Asking about format
     print (f'\nHow do you want to format the list?\nFormat option A:\n--------------\n[01] - password\n--------------\n[02] - password\n--------------')
     print (f'\nFormat option B:\npassword\npassword\n')
-    optformat = input('Choice a format option: [A,B]')
+    optformat = input('Choice a format option: [A,B]: ')
 
 os.system('clear')
 
-print(f'\n Você pediu {howmany} senhas de {tam} dígitos cada:\n')
+print(f'\n You order {howmany} passwords with {tam} digits each:\n')
 print ('-' * (tam+(len(str(howmany)))+7))
+
 # For that will create howmany random passwords with tam digits each
 for i in range(howmany):
     
@@ -53,6 +54,6 @@ for i in range(howmany):
         elif optformat == "a" or optformat == "A":
             arqpasswords.write(f"[{i+1:0>4}] - {passwords[i]:0>6}\n" + '-' * (tam+(len(str(howmany)))+7) + '\n')
 
-    else:
-        print (f"[{i+1:0>4}] - {passwords[i]:0>6}")
-        print ('-' * (tam+(len(str(howmany)))+7))
+    
+    print (f"[{i+1:0>4}] - {passwords[i]:0>6}")
+    print ('-' * (tam+(len(str(howmany)))+7))
